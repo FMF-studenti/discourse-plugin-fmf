@@ -2,3 +2,5 @@
 # about: Discourse customisation for FMF.si
 # version: 0.1
 # authors: Tadej Novak <tadej@tano.si>
+
+register_asset 'stylesheets/menu.css'
